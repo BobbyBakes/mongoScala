@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: bouncycastle:bcmail-jdk14:138:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/bouncycastle/bcmail-jdk14/bcmail-jdk14-138.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

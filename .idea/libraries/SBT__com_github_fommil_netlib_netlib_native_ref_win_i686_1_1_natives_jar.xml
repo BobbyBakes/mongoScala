@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.github.fommil.netlib:netlib-native_ref-win-i686:1.1:natives:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.github.fommil.netlib/netlib-native_ref-win-i686/netlib-native_ref-win-i686-1.1-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
